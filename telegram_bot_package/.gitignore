@@ -1,0 +1,24 @@
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Local files
+.DS_Store
+
+# Local Moodle HTML archive
+html/archive/
+
+# Database backups
+*.dump
+*.sql.gz

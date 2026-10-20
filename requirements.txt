@@ -1,0 +1,4 @@
+playwright>=1.52,<2
+beautifulsoup4>=4.13,<5
+psycopg[binary]>=3.2,<4
+python-dotenv>=1.0,<2
